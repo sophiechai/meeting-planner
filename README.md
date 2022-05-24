@@ -1,1 +1,1 @@
-# group-meeting-planner
+# Meeting Planner
